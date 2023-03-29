@@ -10,13 +10,13 @@ class State {
 
 class SilverState extends State {
   getBenifits() {
-    console.log("Silver account benifits");
+    console.log("Here is your Silver account benifits");
   }
 }
 
 class GoldState extends State {
   getBenifits() {
-    console.log("Gold account benifits");
+    console.log("Here is your Gold account benifits");
   }
 }
 
