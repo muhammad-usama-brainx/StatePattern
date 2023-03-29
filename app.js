@@ -17,6 +17,8 @@ class SilverState extends State {
 class GoldState extends State {
   getBenifits() {
     console.log("Here is your Gold account benifits");
+    console.log("Bonus in salary");
+    console.log(" funds");
   }
 }
 
